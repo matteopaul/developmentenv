@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.sass"],"names":[],"mappings":"AAAA,KACE,MAAA,KACA,WAAA,KACA,OAAA,EACA,QAAA","file":"style.min.css","sourcesContent":["body {\n  color: #fff;\n  background: #000;\n  margin: 0;\n  padding: 0; }\n"]}
